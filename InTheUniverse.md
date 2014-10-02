@@ -17,8 +17,10 @@ Possibilities:
 * Modify gravity
 * ...
 
-Can we make a very low resolution but interactive version of this?
 ![small piece of the Las Damas simulation](http://www.vanderbilt.edu/AnS/physics/vida/lasdamas.gif)
+
+Can we make a very low resolution but interactive version of this?
+
 
 ## Understanding the code
 
