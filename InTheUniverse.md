@@ -12,8 +12,10 @@ If we change the units and color all the points in blue, hey presto! Two collidi
 Possibilities:
 
 * Illustrate the case of the Bullet Cluster by smashing two cluster-sized halos together. This will be better once treeSPH.js is available, though.
-* Start the points on an *almost* uniform grid, and then watch cluster form by gravity
+* Start the points on an *almost* uniform grid, and then watch structures form by gravity, just as they do in a cosmological N-body simulation done in a supercomputer
 * Add an expanding background (could be tricky)
+* Modify gravity
+* ...
 
 
 ## Understanding the code
