@@ -17,7 +17,7 @@ Possibilities:
 * Modify gravity
 * ...
 
-![small piece of the Las Damas simulation](http://www.vanderbilt.edu/AnS/physics/vida/lasdamas.gif)
+![small piece of the Dark Sky simulation](http://portal.nersc.gov/project/darksky/skillman/darkpanner/slice2/tile-4-8-7.png)
 
 Can we make a very low resolution but interactive version of this?
 
