@@ -1,13 +1,11 @@
 # When Giants Collide In The Universe
 
-A little JavaScript app simulating the formation of structure in the Universe by gravitational collapse. This is a proposed project for Science Hack Day San Francisco 2014; it's based on (and forked from) this [giant planet collision demo](http://www.stefanom.org/wgc) by Stefano Meschiari, the genius who created [Super Planet Crash](http://www.stefanom.org/spc).
+A little JavaScript app simulating the formation of structure in the Universe by gravitational collapse. This is a proposed project for Science Hack Day San Francisco 2014; it's based on (and forked from) this [giant planet collision demo](http://www.stefanom.org/wgc/test_nbody.html) by Stefano Meschiari, the genius who created [Super Planet Crash](http://www.stefanom.org/spc).
 
 ## Concept
 
-Look at this [screengrab]() of the original giant planet demo:
-![screenshot]()
-
-If we change the units and color all the points in blue, hey presto! Two colliding dark matter halos.
+Have a play with [the original giant planet demo](http://www.stefanom.org/colliding-n-body-spheres-particle-mayhem-2/).
+Imagine: if we change the units and colored all the points in blue, then, hey presto! Two colliding dark matter halos.
 
 Possibilities:
 
