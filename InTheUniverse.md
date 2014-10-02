@@ -1,6 +1,6 @@
 # When Giants Collide In The Universe
 
-A little JavaScript app simulating the formation of structure in the Universe by gravitational collapse. This is a proposed project for Science Hack Day San Francisco 2014; it's based on (and forked from) this [giant planet collision demo](http://www.stefanom.org/wgc/test_nbody.html) by Stefano Meschiari, the genius who created [Super Planet Crash](http://www.stefanom.org/spc).
+A little JavaScript app simulating the formation of structure in the Universe by gravitational collapse. This is a proposed project for Science Hack Day San Francisco 2014; it's based on (and forked from) this [giant planet collision demo](http://www.stefanom.org/wgc/test_nbody.html) by Stefano Meschiari, the magician who created [Super Planet Crash](http://www.stefanom.org/spc).
 
 ## Concept
 
