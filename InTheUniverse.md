@@ -25,5 +25,5 @@ Possibilities:
 * Here's StefanoM's original demo [README](https://github.com/stefano-meschiari/WhenGiantsCollide/edit/master/README.md)
 
 
-## [Universe Demo](http://drphilmarshall.github.io/WhenGiantsCollide/test_universe.html)
+## [Click here to view the in-progress Hack](http://drphilmarshall.github.io/WhenGiantsCollide/test_universe.html)
 
