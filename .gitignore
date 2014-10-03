@@ -1,0 +1,7 @@
+js/*.js
+scratch/*
+./*.txt
+tests
+prof*
+v8.log
+out_*
